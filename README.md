@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dord-1
 - 👀 I’m interested in AI product, especially GPT and DL
-- 🌱 I’m currently learning AI at FPT University, sophomore
+- 🌱 I’m currently learning AI at FPT University, final year.
 - 💞️ I’m looking to collaborate on everyone <3
-- 📫 You can reach out to me with Facebook, link in the description
+- 📫 You can reach out to me with Facebook and LinkedIn, link in the description
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Confidential enterprise
 
