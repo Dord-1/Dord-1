@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI at FPT University, sophomore
 - 💞️ I’m looking to collaborate on everyone <3
 - 📫 You can reach out to me with Facebook, link in the description
-- 😄 Pronouns: he/him. I'm male, so of course...
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: Confidential enterprise
 
 <!---
